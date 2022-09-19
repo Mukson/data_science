@@ -1,6 +1,6 @@
 # data_science
 yandex_practicum_projects
-1. [Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов](Исследование данных сервиса “Яндекс.Музыка”/Яндекс.Музыка.ipynb)  
+1. [Исследование данных сервиса “Яндекс.Музыка” — сравнение пользователей двух городов](https://github.com/Mukson/data_science/blob/2ae8157f7a8afdc1492a348d5f5ced5d338bcf42/%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%E2%80%9C%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%E2%80%9D/%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0.ipynb)  
  <br> Направление: Data Analyst <br>
  <br>Навыки и инструменты: Python, Pandas<br>
   <br> Задача:<br>
